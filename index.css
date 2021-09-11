@@ -75,6 +75,7 @@ body{
 }
 
 #reload{
+    text-decoration: none;
     width: 67px;
     height: 67px;
     background-color: #f4f8ff;
